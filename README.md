@@ -76,7 +76,7 @@ Coming soon... but I'm probably lurking on GitHub right now 👀💻
 ---
 
 
-> *“In a world full of bugs, be the debugger.”*
+*“In a world full of bugs, be the debugger.”*
 
 ---
 
