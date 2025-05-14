@@ -49,11 +49,12 @@
 
 ### 💖 Badges for Vibes
 
-![Pink Power](https://img.shields.io/badge/-✨%20Pink%20Power-FF69B4?style=for-the-badge)
-![Bug Slayer](https://img.shields.io/badge/-🪲%20Bug%20Slayer-black?style=for-the-badge)
-![Coffee Lover](https://img.shields.io/badge/-☕%20Coffee%20Lover-6f4e37?style=for-the-badge)
-![Always Learning](https://img.shields.io/badge/-📚%20Always%20Learning-8A2BE2?style=for-the-badge)
-![Late Night Coder](https://img.shields.io/badge/-🌙%20Late%20Night%20Coder-0f0f0f?style=for-the-badge)
+![Pink Power](https://img.shields.io/badge/-✨%20Pink%20Power-F59AA3?style=for-the-badge)
+![Late Night Coder](https://img.shields.io/badge/-🌙%20Late%20Night%20Coder-F5E4C3?style=for-the-badge)
+![Bug Slayer](https://img.shields.io/badge/-🎮%20Cozy%20Gamer-34A7B2?style=for-the-badge)
+![Coffee Lover](https://img.shields.io/badge/-☕%20Coffee%20Lover-5B2E35?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/-📚%20Always%20Learning-1E212D?style=for-the-badge)
+
 
 ---
 
